@@ -51,3 +51,104 @@ We built **Plantopia**:
 ---
 
 ## 📂 Project Structure
+Plantopia/
+├── assets/ # Images, CSS, JS files
+├── index.php # Homepage
+├── products.php # Plant listings
+├── cart.php # Shopping cart page
+├── order_form.php # Order form page
+├── order_history.php # Order history page
+├── config.php # Database configuration
+├── screenshots/ # Screenshots & GIFs
+└── README.md # Project documentation
+
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Installation
+
+### Prerequisites
+- *XAMPP* or *WAMP* (for Apache + MySQL)
+- *PHP 7+*
+- *MySQL Database*
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/Plantopia.git
+
+# Move into project folder
+cd Plantopia
+🌟 How to Run Locally
+Place project in htdocs folder of XAMPP/WAMP.
+
+Start Apache and MySQL from XAMPP/WAMP control panel.
+
+Create a Database in phpMyAdmin (e.g., plantopia_db).
+
+Import SQL File (if provided) to set up tables.
+
+Update config.php with your database details.
+
+Open in browser:
+
+arduino
+Copy
+Edit
+http://localhost/Plantopia
+🖼 Screenshots & GIFs
+🏠 Homepage
+
+🛒 Cart in Action
+
+(To add your own screenshots: create a folder named screenshots in your project root, place the image files inside, and update the above paths.)
+
+📌 Steps to Push Changes to GitHub
+bash
+Copy
+Edit
+# Initialize git repository (if not done already)
+git init
+
+# Add all changes
+git add .
+
+# Commit changes
+git commit -m "Updated Plantopia README"
+
+# Set the remote repository (only for first-time setup)
+git remote add origin https://github.com/your-username/Plantopia.git
+
+# Push changes to GitHub
+git branch -M main
+git push origin main
+📞 Support
+For any queries, reach out via email: your-email@example.com 🌿
+
+✨ Authors and Acknowledgments
+Tejaswi Arella 🌟 (Lead Developer)
+Special thanks to everyone who helped make Plantopia bloom! 💚
+
+💚 “A garden is a friend you can visit anytime.” 🌿
+
+yaml
+Copy
+Edit
+
+---
+
+If you want to **upload your screenshots** so they show up like in the GIF section:
+1. Create a folder in your project root called `screenshots`.
+2. Place your `.png` or `.gif` files inside it.
+3. Update the README paths like:
+
+sql
+Copy
+Edit
+4. Commit and push again with:
+```bash
+git add .
+git commit -m "Added screenshots"
+git push origin main
