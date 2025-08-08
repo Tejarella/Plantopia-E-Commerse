@@ -9,6 +9,16 @@
 
 ---
 
+## 📸 Screenshots
+
+| Home Page | Shop Page |
+|-----------|-----------|
+| ![Home](123.png) | ![Shop](456.png) |
+
+| Cart Page | Checkout Page |
+|-----------|---------------|
+| ![Cart](789.png) | ![Checkout](987.png) |
+
 ## 🌱 About Plantopia
 **Plantopia** is your go-to online nursery 🌸.  
 From cute succulents to lush indoor palms, we deliver green happiness straight to your home.  
