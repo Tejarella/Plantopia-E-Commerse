@@ -15,9 +15,13 @@
 |-----------|-----------|
 | ![Home](123.png) | ![Shop](456.png) |
 
-| Cart Page | Checkout Page |
+| Add to Bag | Checkout Page |
 |-----------|---------------|
-| ![Cart](789.png) | ![Checkout](987.png) |
+| ![Add to Bag](cart.png) | ![Checkout Page](order.png) |
+
+| Order Success | History |
+|-----------|---------------|
+| ![Order Success](987.png) | ![History](789.png) |
 
 ## 🌱 About Plantopia
 **Plantopia** is your go-to online nursery 🌸.  
